@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragmentContainer" type="id"/>
+    <item name="fragmentTO" type="id"/>
+    <item name="fragmentTPFL" type="id"/>
+    <item name="fragmentPPLG" type="id"/>
+    <item name="fragmentKuliner" type="id"/>
+    <item name="fragmentBusana" type="id"/>
+</resources>
